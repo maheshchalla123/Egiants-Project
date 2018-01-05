@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: RegistryServerApplication
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Mahesh Challa
+Implementation-Vendor-Id: com.pivotal
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/RegistryServ
+ erApplication/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
